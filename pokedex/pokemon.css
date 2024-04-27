@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(to bottom, red 100px, transparent 100px);
+}
+
+.pokemon-logo {
+    max-width: 200px;
+}
+
+.pokemon-logo {
+    display: block;
+    margin: 0 auto 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 10px;
+}
+
+.pokemon {
+    background-color: #85b0c9;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
+}
+
+.pokemon img {
+    width: 50%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
